@@ -86,7 +86,7 @@ Abortion was legalized in Romania in 1957, followed by a ban on abortion in 1966
 
 Abortion was first legalized in Poland in 1956 and after that it was made illegal in 1993, now let's see Poland and also it's Neighbours abortion number by years:​
 
-​![image](https://github.com/user-attachments/assets/f1595209-a2f3-43c0-9f16-19056810326a)
+![image](https://github.com/user-attachments/assets/e895263c-1202-4817-8fba-f467724604ac)
 
 #### Observations:​ 
 1. Before plotting the data I was thinking that after the ban of abortion in Poland, there will be a visible rise in it's neighbours number of abortions.  This turned out to be FALSE!​ (I didn't take into account that Poland was not part of EU until 2004 so to leave the country to get an abortion was very hard at that point.)
